@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./troilusalbertis00albegoog_0020.png"; bbox 0 0 2616 3980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 67 1323 780 1444">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 67 1229 780 1481">
+     <span class='ocr_line' id='line_1_1' title="bbox 67 1323 780 1444; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 67 1403 70 1410; x_wconf 77' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 395 1323 780 1444; x_wconf 75' lang='lat' dir='ltr'><strong>TROILUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 1613 852 1711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 1613 852 1711">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 1613 852 1711; baseline -0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 324 1613 577 1711; x_wconf 77' lang='lat' dir='ltr'><strong>MAGISTRI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 621 1624 852 1710; x_wconf 78' lang='lat' dir='ltr'><strong>ALBERTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 216 1819 1241 1876">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 216 1819 1241 1876">
+     <span class='ocr_line' id='line_1_3' title="bbox 216 1819 1241 1876; baseline 0.004 -4"><span class='ocrx_word' id='word_1_5' title='bbox 216 1819 380 1874; x_wconf 81' lang='lat' dir='ltr'>·ABBA&#39;PIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 400 1820 570 1876; x_wconf 81' lang='lat' dir='ltr'>SANOTAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 589 1822 733 1876; x_wconf 72' lang='lat' dir='ltr'>MARIAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 751 1822 791 1875; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 811 1821 949 1876; x_wconf 81' lang='lat' dir='ltr'><strong>STADIO.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1122 1857 1125 1862; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_11' title='bbox 1235 1861 1241 1866; x_wconf 87' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1312 3980">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1312 3980">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1312 3980; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1312 3980; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
